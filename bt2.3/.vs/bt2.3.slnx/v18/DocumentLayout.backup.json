@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp\\bt2.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C715DAA4-BC6A-50F6-9AC8-D551F0ED42F1}|bt2.3\\bt2.3.csproj|d:\\csharp\\bt2.3\\bt2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C715DAA4-BC6A-50F6-9AC8-D551F0ED42F1}|bt2.3\\bt2.3.csproj|solutionrelative:bt2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp\\bt2.3\\bt2.3\\Program.cs",
+              "RelativeDocumentMoniker": "bt2.3\\Program.cs",
+              "ToolTip": "D:\\csharp\\bt2.3\\bt2.3\\Program.cs",
+              "RelativeToolTip": "bt2.3\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:18:17.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
