@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\csharp\\bai4_2\\",
+  "WorkspaceRootPath": "D:\\csharp\\baitapcsharp\\bai4_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D6697F9-CCEA-45B4-8251-F7CFA22E9EC7}|bai4_2\\bai4_2.csproj|d:\\csharp\\bai4_2\\bai4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D6697F9-CCEA-45B4-8251-F7CFA22E9EC7}|bai4_2\\bai4_2.csproj|solutionrelative:bai4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C107EEAF-4AB9-A0D3-F152-88AAFFD6E45D}|bai4_2\\bai4_2.csproj|d:\\csharp\\baitapcsharp\\bai4_2\\bai4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C107EEAF-4AB9-A0D3-F152-88AAFFD6E45D}|bai4_2\\bai4_2.csproj|solutionrelative:bai4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharp\\bai4_2\\bai4_2\\Program.cs",
+              "DocumentMoniker": "D:\\csharp\\baitapcsharp\\bai4_2\\bai4_2\\Program.cs",
               "RelativeDocumentMoniker": "bai4_2\\Program.cs",
-              "ToolTip": "D:\\csharp\\bai4_2\\bai4_2\\Program.cs",
+              "ToolTip": "D:\\csharp\\baitapcsharp\\bai4_2\\bai4_2\\Program.cs",
               "RelativeToolTip": "bai4_2\\Program.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAIwJYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAYwJkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T08:26:17.035Z",
               "EditorCaption": ""
